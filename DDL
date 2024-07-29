@@ -2,3 +2,4 @@ create
   alter
   drop
   truncate
+rename
